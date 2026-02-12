@@ -1,0 +1,66 @@
+span {
+    font-style: italic;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+ol {
+    list-style: inside;
+}
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+img {
+
+    width: 15cm;
+    height: 10cm;
+    max-width: 100%;
+    /* Подстраиваюсь под размер любого контейнера */
+    height: auto;
+    /* Мои пропорции не меняются при изменении размера */
+    border: 2px solid rgb(177, 149, 149);
+    border-radius: 8px;
+}
+.txet {
+   text-align: center;
+}
+.main {
+    text-align: center;
+}
+.me {
+    width: 300px;
+    
+}
+.cont {
+    font-size: 24px;
+    background-color: rgb(202, 178, 146);
+}
+.cc {
+    padding: 5px;
+    border-style: solid;
+    border-width: 0.5px;
+    display: inline-block;
+    background-color: rgb(202, 178, 146);
+    border: 2px solid rgb(177, 149, 149);
+    border-radius: 8px;
+    margin-left: 25px;
+}
+.pol {
+    float: right;
+}
+.po {
+    float: left;
+}
+.c {
+    padding: 5px;
+    border-style: solid;
+    border-width: 0.5px;
+    display: inline-block;
+    background-color: rgb(202, 178, 146);
+    border: 2px solid rgb(177, 149, 149);
+    border-radius: 8px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
